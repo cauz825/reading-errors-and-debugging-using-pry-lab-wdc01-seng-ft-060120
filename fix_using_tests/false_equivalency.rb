@@ -1,8 +1,8 @@
 # don't forget to add: require 'pry'
 require 'pry'
 
+binding.pry
 def get_user_input
-  binding.pry
   gets.chomp
 end
 
