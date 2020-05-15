@@ -2,7 +2,6 @@
 require 'pry'
 
 def get_user_input
-  chomp = 2
   gets.chomp
 end
 
